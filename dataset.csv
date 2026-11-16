@@ -1,0 +1,7 @@
+Target Tool,Competitor,Use Case,Workflow Scenario,Evaluation Checklist
+Notion,Confluence,Team knowledge base,A new support hire needs to find the current refund policy and flag an outdated article.,Time the first successful search|Check who can publish edits|Identify the owner of each policy
+ClickUp,Asana,Sprint planning,A product team plans a two-week sprint and moves a blocked task into the next cycle.,Check whether dependencies are visible|Compare how carryover appears in reports|Confirm who can change sprint scope
+Airtable,Google Sheets,Editorial calendar,An editor moves one article through pitch review and publication while coordinating a freelance writer.,Test a filtered view for each owner|Check what the freelancer can see|Move a deadline and check where it updates
+Miro,FigJam,Remote design workshops,A distributed team runs a 45-minute workshop from idea capture to voting and action items.,Test guest access before the session|Count the steps from voting to action items|Check what attendees can export
+Slack,Microsoft Teams,Incident coordination,An on-call team opens an incident room and hands over to the next responder.,Time how long it takes to find the incident owner|Check notification behavior|Find the decision log during handoff
+Trello,Todoist,Weekly task planning,A small operations team reviews overdue tasks and assigns next week's recurring work.,Check if the team can spot overdue tasks in one view|Test recurring task setup|Confirm that owners receive reminders
